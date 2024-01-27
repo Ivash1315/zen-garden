@@ -1,0 +1,68 @@
+.bigger_text {
+  font-size: xx-large;  
+}
+
+body {
+    background-color: none;
+}
+h1 {
+    text-align: center;
+    font-style: italic;
+}
+.red {
+     color: rgba(255, 0, 0, 0.505);
+}
+.blue {
+    color: blue;
+}
+.green {
+    color: rgba(0, 128, 0, 0.744);
+}
+
+.big {
+    font-size: xx-large;
+}
+
+.attribute {
+    color: aqua;
+    text-decoration-color: brown;
+    font-size: large;
+
+}
+.styledFont {
+    font-style: oblique;
+    color: rgba(128, 0, 128, 0.756);
+
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.font {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.centered{
+    text-align: center;
+}
+
+bolder_text {
+    font-weight: bolder;
+}
+
+.orange {
+    color: orange;
+}
+
+.styledfont {
+    font-family: cursive, script, serif;
+}
+
+#styledImage {
+    border-style: solid double;
+    border-width: 10px 12px 25px;
+    border-color: red green blue aqua;
+
+}
